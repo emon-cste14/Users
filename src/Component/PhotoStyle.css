@@ -1,0 +1,12 @@
+.album{
+    border: 2px solid royalblue;
+    border-radius: 10px;
+    margin: 10%;
+}
+.Show-details{
+    width: 70%;
+    height: auto;
+}
+.data-style{
+    display:flex;
+}
